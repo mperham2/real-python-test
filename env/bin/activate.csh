@@ -7,7 +7,11 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
+<<<<<<< HEAD
 setenv VIRTUAL_ENV "/Users/mikeperham/Documents/RealPython/real-python-test/env"
+=======
+setenv VIRTUAL_ENV "/Users/mikeperham/Google Drive/RealPython/real-python-test/env"
+>>>>>>> d1f2f78d8dcf7e12f666f41943367aa1a6a57611
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
